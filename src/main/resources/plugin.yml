@@ -1,0 +1,4 @@
+name: WowDemo
+main: com.github.mouse0w0.wowdemo.WowDemo
+version: 1.0.0
+depend: [WowSpigot]
